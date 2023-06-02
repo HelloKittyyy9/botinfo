@@ -1,7 +1,7 @@
 const { Telegraf } = require("telegraf");
 const { DateTime } = require("luxon");
 
-const bot = new Telegraf("6177764875:AAErZgAN0t2rAi9EAaXWovKf0T742rJ1SKM");
+const bot = new Telegraf("");
 
 let users = [
   {
